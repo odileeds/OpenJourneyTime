@@ -12,4 +12,4 @@ Further outputs will be available if,
 * The UK government is less unhelpful. (this is why Scottish and Welsh data and data for North England will be available first).
 
 ## License
-I have made considerable efforts to ensure that all input data is Open Government Licence and that all code used for processing does not leave the output data encumbered in any further way. The output data is thus Open Government Licence.
+I have tried hard to ensure that all input data is Open Government Licence and that all code used for processing does not leave the output data encumbered in any further way. The output data is thus Open Government Licence.
